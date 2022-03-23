@@ -1,0 +1,10 @@
+D:\Фидлер Елизавета 22КС-20\22CN-20 Fidler\22CN-20 Fidler\PictureViewer Fidler\PictureViewer Fidler\bin\Debug\PictureViewer Fidler.exe.config
+D:\Фидлер Елизавета 22КС-20\22CN-20 Fidler\22CN-20 Fidler\PictureViewer Fidler\PictureViewer Fidler\bin\Debug\PictureViewer Fidler.exe
+D:\Фидлер Елизавета 22КС-20\22CN-20 Fidler\22CN-20 Fidler\PictureViewer Fidler\PictureViewer Fidler\bin\Debug\PictureViewer Fidler.pdb
+D:\Фидлер Елизавета 22КС-20\22CN-20 Fidler\22CN-20 Fidler\PictureViewer Fidler\PictureViewer Fidler\obj\Debug\PictureViewer Fidler.csproj.AssemblyReference.cache
+D:\Фидлер Елизавета 22КС-20\22CN-20 Fidler\22CN-20 Fidler\PictureViewer Fidler\PictureViewer Fidler\obj\Debug\PictureViewer_Fidler.Form1.resources
+D:\Фидлер Елизавета 22КС-20\22CN-20 Fidler\22CN-20 Fidler\PictureViewer Fidler\PictureViewer Fidler\obj\Debug\PictureViewer_Fidler.Properties.Resources.resources
+D:\Фидлер Елизавета 22КС-20\22CN-20 Fidler\22CN-20 Fidler\PictureViewer Fidler\PictureViewer Fidler\obj\Debug\PictureViewer Fidler.csproj.GenerateResource.cache
+D:\Фидлер Елизавета 22КС-20\22CN-20 Fidler\22CN-20 Fidler\PictureViewer Fidler\PictureViewer Fidler\obj\Debug\PictureViewer Fidler.csproj.CoreCompileInputs.cache
+D:\Фидлер Елизавета 22КС-20\22CN-20 Fidler\22CN-20 Fidler\PictureViewer Fidler\PictureViewer Fidler\obj\Debug\PictureViewer Fidler.exe
+D:\Фидлер Елизавета 22КС-20\22CN-20 Fidler\22CN-20 Fidler\PictureViewer Fidler\PictureViewer Fidler\obj\Debug\PictureViewer Fidler.pdb
